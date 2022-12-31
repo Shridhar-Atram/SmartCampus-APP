@@ -1,4 +1,4 @@
-# trial1
+# Smart Campus App
 
 A new Flutter project.
 
